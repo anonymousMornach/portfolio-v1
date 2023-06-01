@@ -1,9 +1,9 @@
 ---
-date: '2018-12-07'
+date: '2021-11-17'
 title: 'Web Developer'
 company: 'Luvable Baby Stores'
 location: 'Lagos, Ligeria'
-range: '2018 - 2019'
+range: '2021 - Present'
 url: 'https://luvable-landing.onrender.com/'
 ---
 
