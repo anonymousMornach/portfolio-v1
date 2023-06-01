@@ -1,9 +1,9 @@
 ---
-date: '2018-07-15'
+date: '2022-11-12'
 title: 'Software Engineer (Freelancer)'
 company: 'Upwork'
 location: 'Remote'
-range: '2018 - Present'
+range: '2022 - Present'
 url: 'https://upwork.com/freelancers/~0151e50359e7ead8cb'
 ---
 

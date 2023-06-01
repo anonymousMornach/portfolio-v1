@@ -2,8 +2,8 @@
 date: '2010-01-01'
 title: ''
 company: 'Achievements'
-location: 'Ahmedabad, India'
-range: 'January 2018 - May 2022'
+location: 'Lagos, Nigeria'
+range: 'January 2018 - Present'
 url: ''
 ---
 
