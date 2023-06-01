@@ -6,7 +6,7 @@ external: 'https://sentiment-x0w0.onrender.com/'
 tech:
   - Node
   - JavaScript
-company: 'Nirma University'
+company: ''
 showInProjects: true
 ios: ''
 android: ''
