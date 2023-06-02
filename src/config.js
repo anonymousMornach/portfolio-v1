@@ -35,7 +35,7 @@ module.exports = {
     },
     {
       name: 'Blog',
-      url: 'https://musing.vercel.app/',
+      url: 'https://techmornach.vercel.app/',
     },
   ],
 
