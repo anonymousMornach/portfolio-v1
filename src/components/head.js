@@ -25,13 +25,8 @@ const Head = ({ title, description, image }) => {
     `,
   );
 
-  const {
-    defaultTitle,
-    defaultDescription,
-    siteUrl,
-    defaultImage,
-    twitterUsername,
-  } = site.siteMetadata;
+  const { defaultTitle, defaultDescription, siteUrl, defaultImage, twitterUsername } =
+    site.siteMetadata;
 
   const seo = {
     title: title || defaultTitle,
@@ -58,7 +53,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:title" content={seo.title} />
       <meta name="twitter:description" content={seo.description} />
       <meta name="twitter:image" content={seo.image} />
-      <meta name="google-site-verification" content="_Ba0lKk4Dl9XMvABJ9gZEtoMPITT5Vr5TGx2M-34Z_I" />
+      <meta name="google-site-verification" content="p-BivLZjRfJtiUanGMyye5bDey74X_X7H5PI4IdW0Ow" />
     </Helmet>
   );
 };
