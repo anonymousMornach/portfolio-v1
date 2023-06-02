@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Portfolio | Taiwo Ifedayo',
     description:
-      'I am a Data Engineer who is passionate about Data Science and Automation. In my free time, I like developing.',
+      'I am a Software Engineer who is passionate about Scalable Web apps and Artificial Intelligence. In my free time, I like developing.',
     siteUrl: 'https://taiwoifedayo.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tech-mornach',
