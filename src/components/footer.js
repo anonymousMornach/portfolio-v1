@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
 import { socialMedia } from '@config';
+import { Analytics } from '@vercel/analytics/react';
 
 const StyledFooter = styled.footer`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -123,6 +124,7 @@ const Footer = () => {
           )}
         </a>
       </StyledCredit>
+      <Analytics />
     </StyledFooter>
   );
 };
