@@ -64,10 +64,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am an Nigera based Software Engineer with a bachelors in Computer Science. I am passionate
-        about Web Applications and Artificial Intelligence. I am also fascinated with Medcine and
-        wish to make a career out of it someday. Currently, I’m focused on building Scalable Web
-        Applications at{' '}
+        I am an Nigera based Software Engineer pursuing a bachelors in Computer Science. I am
+        passionate about Web Applications and Artificial Intelligence. I am also fascinated with
+        Medcine and wish to make a career out of it someday. Currently, I’m focused on building
+        Scalable Web Applications at{' '}
         <a href="https://luvable-landing.onrender.com" target="_blank" rel="noreferrer">
           Luvable BabyCare Stores
         </a>
