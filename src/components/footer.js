@@ -107,7 +107,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/anonymousMornach/portfolio-v1">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>Designed &amp; Built by Taiwo Ifedayo</div>
           <br></br>
           <div>Revised by Taiwo Ifedayo</div>
           {githubInfo.stars && githubInfo.forks && (
